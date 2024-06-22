@@ -1,0 +1,51 @@
+body {
+    font-size: 0.9em;
+    color: #212121;
+    font-family: Arial;
+}
+
+#frm-mobile-verification {
+    
+    border-radius: 3px;
+    padding: 30px;
+    text-align: center;
+
+}
+
+
+
+.form-row {
+    margin-bottom: 30px;
+
+}
+
+
+
+
+
+.error {
+    color: #483333;
+    padding: 10px;
+    background: #ffbcbc;
+    border: #efb0b0 1px solid;
+    border-radius: 3px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 350px;
+    display:none;
+    box-sizing: border-box;
+}
+
+.success {
+    color: #483333;
+    padding: 10px 20px;
+    background: #cff9b5;
+    border: #bce4a3 1px solid;
+    border-radius: 3px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 350px;
+    display:none;
+    box-sizing: border-box;
+}
+
